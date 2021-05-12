@@ -28,6 +28,9 @@ color: #e45e60;
 
 }
 
+img {
+  border-radius: 20px;
+}
 
 .list-inline {
   list-style: none;
